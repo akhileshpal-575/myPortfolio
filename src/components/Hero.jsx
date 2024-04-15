@@ -28,7 +28,7 @@ const Hero = () => {
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
             Fullstack Developer
           </h4>
-              <a href="./src/assets/myResume.pdf" download>
+              <a href="./src/assets/resume.pdf" download>
               <button className="btn-primary mt-8">Download CV</button>
               </a>
         
