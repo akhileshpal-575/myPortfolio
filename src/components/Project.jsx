@@ -26,7 +26,7 @@ const Project = () => {
     },
     {
       img: project6,
-      name: "Strong password Generator",
+      name: "Modern Sticky-Notes",
       github_link: "https://github.com/akhileshpal-575/ModernStickyNotes",
       live_link: "https://modern-sticky-notes.vercel.app/",
     },
